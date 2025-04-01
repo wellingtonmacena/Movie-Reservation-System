@@ -1,5 +1,4 @@
 # Movie Reservation System built with Spring Boot, Spring Security, HTML, CSS, JS, and JWT
-This is a project proposed by Roadmap.sh for the backend. URL: https://roadmap.sh/projects/movie-reservation-system
 
 ## Technologies Used
 
